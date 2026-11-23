@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: null
 title: Docker Application Setup Guide Using Uptime Kuma
 ---
 # Docker Application Setup Guide Using Uptime Kuma
