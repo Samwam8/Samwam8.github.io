@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: plain
 title: Arch Linux Installation Guide
 ---
 
