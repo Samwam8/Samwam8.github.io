@@ -1,3 +1,7 @@
+---
+layout: default
+title: Docker Application Setup Guide Using Uptime Kuma
+---
 # Docker Application Setup Guide Using Uptime Kuma
 
 ## 1. Introduction
