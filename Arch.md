@@ -1,3 +1,8 @@
+---
+layout: default
+title: Arch Linux Installation Guide
+---
+
 # Arch Linux Installation Guide
 
 ## 1. Download Arch Linux
