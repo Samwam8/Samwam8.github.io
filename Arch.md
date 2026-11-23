@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: null
 title: Arch Linux Installation Guide
 ---
 
